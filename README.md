@@ -14,7 +14,7 @@ tags:
   ]
 ---
 
-# How Soultrace Works: A Technical Deep-Dive
+# How [Soultrace](https://soultrace.app/en) Works: A Technical Deep-Dive
 
 Most personality tests are glorified surveys. Fixed questions, fixed order, dump answers into a spreadsheet, calculate percentages. Boring. Statistically lazy.
 
@@ -293,6 +293,6 @@ The whole system depends on accurate likelihood tables. If `scoreProbabilities` 
 
 That's the actual methodology. No hand-waving, no "proprietary AI" bullshit.
 
-Take the test and see if the math holds up for you: **[Start Assessment](/en/new-test)**
+Take the test and see if the math holds up for you: **[Start Assessment](https://soultrace.app/en/new-test)**
 
 
